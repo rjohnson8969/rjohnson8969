@@ -36,9 +36,6 @@ Technologies: Python, ROS (Robot Operating System), Fanuc CR-4iA
 
 Key Features: 3D spatial manipulation, automated tool path generation, precise letter formation
 
-### Project Name 3
-
-Brief description of what this project does and the technologies used.
 ## 📫 Let's Connect!
 
 [LinkedIn](https://www.linkedin.com/in/riley-johnson-eng) · [GitHub](https://github.com/rjohnson8969) · rileyjohnson313@gmail.com
