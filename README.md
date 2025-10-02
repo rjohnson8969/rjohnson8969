@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Riley!
 
-Welcome to my GitHub! I'm a Computer Engineering passionate about embedded systems, computer programmingm, and machine learning.
+Welcome to my GitHub! I'm a Computer Engineering passionate about embedded systems, computer programming, and machine learning.
 
 https://github.com/user-attachments/assets/20fd011e-8491-4770-9a95-34321643da97
 
@@ -29,10 +29,7 @@ Project Name 3
 Brief description of what this project does and the technologies used.
 ### 📫 Let's Connect
 
-    Email: rileyjohnson313@gmail.com
-
-    LinkedIn: linkedin.com/in/riley-johnson-eng
-
+[LinkedIn](https://www.linkedin.com/in/riley-johnson-eng) · [GitHub](https://github.com/rjohnson8969) · rileyjohnson313@gmail.com
 ---
 
 Feel free to explore my repositories and reach out if you'd like to collaborate!
