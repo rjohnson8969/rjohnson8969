@@ -2,6 +2,8 @@
 
 Welcome to my GitHub! I'm a Computer Engineering passionate about embedded systems, computer programmingm, and machine learning.
 
+https://github.com/user-attachments/assets/20fd011e-8491-4770-9a95-34321643da97
+
 ---
 
 ### 🚀 About Me
