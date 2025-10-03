@@ -11,12 +11,11 @@ https://github.com/user-attachments/assets/20fd011e-8491-4770-9a95-34321643da97
 I'm currently studying courses relating to micro-electronic hardware and computer architecture at University of Guelph. I enjoy building unique electronics and exploring new frameworks and libraries. My work spans across aerospace manufacturing and embedded systems.
 
 ## 🛠️ Skills & Technologies
-
-    Languages: [e.g., Python, C++, Verilog, JavaScript]
-
-    Tools & Frameworks: [e.g., Git, Docker, React, TensorFlow]
-
-    Areas of Expertise: [e.g., Analog/Mixed-Signal Design, Web Development, Machine Learning]
+     Programming Languages: Python3, C/C++, Java, JavaScript, ARM Assembly
+     Hardware Descriptive Languages: Verilog, VHDL
+     Development Tools: Vivado, Git, Jira, MATLAB, AutoCAD, SolidWorks, KiCad
+     Frameworks & Libraries: Matplotlib, NumPy, PyTorch, Pandas, TensorFlow, OpenCV, Tkinter, pyrf24, React
+     Protocols & Interfaces: I²C, UART, SPI, RF Communication, TCP/IP
 
 ## 📂 Featured Projects
 
