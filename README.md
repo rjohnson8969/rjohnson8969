@@ -27,8 +27,6 @@ WiFi-enabled stock ticker built on ESP32 microcontroller using Arduino C, fetchi
 
 **Key Features:** Real-time stock data parsing, WiFi connectivity, color-coded price indicators, automatic refresh
 
-[View Repository →](https://github.com/rjohnson8969/stockTicker)
-
 ### Robotic Arm Automated Writing
 
 Programmed a Fanuc CR-4iA collaborative robot arm in Python using the ROS platform to manipulate a pencil in 3D space, demonstrating precise letter formation through automated tool path generation using XYZ coordinates.
