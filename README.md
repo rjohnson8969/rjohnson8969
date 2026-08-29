@@ -17,6 +17,8 @@ I'm currently studying courses relating to micro-electronic hardware and compute
 
 ## 📂 Featured Projects
 
+### [Portfolio Website](https://rjohnson8969.github.io/my-portfolio/)
+
 ### [ESP32 Stock Market Ticker](https://github.com/rjohnson8969/stockTicker)
 
 WiFi-enabled stock ticker built on ESP32 microcontroller using Arduino C, fetching real-time market data from Finnhub REST API and displaying live prices on ST7789 TFT display with color-coded gain/loss indicators and automatic scrolling ticker logic.
