@@ -1,12 +1,9 @@
-# 👋 Hi, Welcome to my GitHub!
-
-My name is Riley and I am a Computer Engineering passionate about embedded systems, computer programming, and machine learning.
-
+# Riley Johnson
 ---
 
 ## 🚀 About Me
 
-I'm currently studying courses relating to micro-electronic hardware and computer architecture at University of Guelph. I enjoy building unique electronics and exploring new frameworks and libraries. My work spans across aerospace manufacturing and embedded systems.
+My name is Riley and I am a Computer Engineering passionate about embedded systems, computer programming, and machine learning. I'm currently studying courses relating to micro-electronic hardware and computer architecture at University of Guelph. I enjoy building unique electronics and exploring new frameworks and libraries. My work spans across aerospace systems and software development.
 
 ## 🛠️ Skills & Technologies
      Programming Languages: Python3, C/C++, Java, JavaScript, ARM Assembly
@@ -28,14 +25,6 @@ WiFi-enabled stock ticker built on ESP32 microcontroller using Arduino C, fetchi
 **Technologies:** Arduino C, ESP32, REST API, ST7789 TFT Display
 
 **Key Features:** Real-time stock data parsing, WiFi connectivity, color-coded price indicators, automatic refresh
-
-### Robotic Arm Automated Writing
-
-Programmed a Fanuc CR-4iA collaborative robot arm in Python using the ROS platform to manipulate a pencil in 3D space, demonstrating precise letter formation through automated tool path generation using XYZ coordinates.
-
-**Technologies:** Python, ROS (Robot Operating System), Fanuc CR-4iA
-
-**Key Features:** 3D spatial manipulation, automated tool path generation, precise letter formation
 
 ## 📫 Let's Connect!
 
