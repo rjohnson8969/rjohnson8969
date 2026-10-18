@@ -1,5 +1,4 @@
 # Riley Johnson
----
 
 ## 🚀 About Me
 
